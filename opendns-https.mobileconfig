@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://doh.opendns.com/dns-query</string>
+				<string>https://mtn.my.to/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use OpenDNS Encrypted DNS over HTTPS</string>
