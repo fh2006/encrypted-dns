@@ -1,5 +1,5 @@
 # mtn.my.to DNS-Profil für iOS und MacOS-Geräte
-Tippe auf den diesen Link(https://github.com/fh2006/mtn.my.to_Apple-DNS-Profil/raw/master/opendns-https.mobileconfig) und drücke auf "Zulassen", gehe in die Einstellungen und installiere das Profil. Du wirst möglicherweise nach deinem Gerätepasswort gefragt.
+Tippe auf den diesen Link(https://github.com/morta5/mtn.my.to_Apple-DNS-Profil/raw/master/opendns-https.mobileconfig) und tippe auf "Zulassen", gehe in die Einstellungen und installiere das Profil. Du wirst möglicherweise nach deinem Gerätepasswort gefragt.
 # Android-Geräte und andere Betriebssysteme
 Auf Android-Geräten kannst Du in den Einstellungen unter dem Punkt "Privates-DNS" folgendes eintragen: "https://mtn.my.to/dns-query"
 
